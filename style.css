@@ -1,0 +1,16 @@
+#navbar{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 200px;  
+    color: white;
+    background-color: #343434;
+    font-size: 1.5rem;
+}
+#add, #verify, #update, #delete{
+    display: auto;
+    margin-top: 10px;
+    margin-bottom:0px;
+}
+
+.display-none{
+    display: none;
+}
